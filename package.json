@@ -1,0 +1,15 @@
+{
+  "name": "ai-call-logs",
+  "version": "1.0.0",
+  "main": "process_call_logs.ts",
+  "type": "module",
+  "scripts": {
+    "start": "npx ts-node process_call_logs.ts"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.7",
+    "node-fetch": "^3.3.2",
+    "fs": "^0.0.1-security",
+    "ts-node": "^10.9.2"
+  }
+} 
