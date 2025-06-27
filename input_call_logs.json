@@ -1,0 +1,32 @@
+[
+  {
+    "call_id": "call_001",
+    "agent_id": "agent_123",
+    "from_number": "+1234567890",
+    "client_name": "John Doe",
+    "transcript": "I need an urgent repair for my AC.",
+    "summary": "Customer requests emergency service for AC.",
+    "start_timestamp": "2024-06-01T10:00:00Z",
+    "duration_ms": 600000
+  },
+  {
+    "call_id": "call_002",
+    "agent_id": "agent_123",
+    "from_number": "+1987654321",
+    "client_name": "Jane Smith",
+    "transcript": "Can I get a quote for a new installation?",
+    "summary": "Customer wants a quotation for installation.",
+    "start_timestamp": "2024-06-02T11:30:00Z",
+    "duration_ms": 900000
+  },
+  {
+    "call_id": "call_003",
+    "agent_id": "agent_456",
+    "from_number": "+1122334455",
+    "client_name": "Bob Lee",
+    "transcript": "Just checking your business hours.",
+    "summary": "Customer inquiry about hours.",
+    "start_timestamp": "2024-06-03T09:15:00Z",
+    "duration_ms": 300000
+  }
+] 
